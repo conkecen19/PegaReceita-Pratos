@@ -1,1 +1,1 @@
-# PegaReceita-almoco
+# PegaReceita-pratos
